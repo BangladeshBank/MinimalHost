@@ -42,11 +42,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 indianexpress.com
 0.0.0.0 indiatoday.in
 0.0.0.0 hindustantimes.com
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
+0.0.0.0 economictimes.com
+0.0.0.0 thehindu.com
+0.0.0.0 jagran.com
+0.0.0.0 oneindia.com
+0.0.0.0 timesofindia.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
