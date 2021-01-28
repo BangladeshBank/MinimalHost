@@ -19,7 +19,7 @@
 *://*.giztop.com/*
 *://*.gadgetfeatures.com/*
 *://*.icareservice.in/*
-*://*.economictimes.indiatimes.com/*
+*://*.indiatimes.com/*
 *://*.themobileindian.com/*
 *://*.pricebaba.com/*
 *://*.quora.com/*
@@ -40,9 +40,9 @@
 *://*.india.com/*
 *://*.india.com/*
 *://*.india.com/*
-*://*.india.com/*
-*://*.india.com/*
-*://*.india.com/*
+*://*.hindustan.com/*
+*://*.economictimes.com/*
+*://*.in/*
 *://*.india.com/*
 *://*.india.com/*
 *://*.india.com/*
