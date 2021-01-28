@@ -15,12 +15,14 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-#Domains
-
+#Low Quality
 0.0.0.0 quora.com
+
+#Fake News
 0.0.0.0 scorecardresearch.com
-0.0.0.0 doubleclick.net
-0.0.0.0 intl.miui.com
+0.0.0.0 outbrain.com
+
+
 
 #Dhaka Tribune
 0.0.0.0 green-red.com
@@ -34,14 +36,16 @@ ff02::3 ip6-allhosts
 #TLD blocking
 0.0.0.0 .in
 
-#Trackers and Garbage
+#Trackers & Garbage
 0.0.0.0 sharethis.com
 0.0.0.0 addthis.com
+0.0.0.0 intl.miui.com
 
-###############################
+#Ads
 0.0.0.0 appsflyer.com
 0.0.0.0 appspot.com
 0.0.0.0 axiatraders.com
 0.0.0.0 ero-advertising.com
 0.0.0.0 mobileapptracking.com
-0.0.0.0 outbrain.com
+0.0.0.0 doubleclick.net
+0.0.0.0 amazon-adsystem.com
