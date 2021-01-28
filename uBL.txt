@@ -1,3 +1,6 @@
+*://*.hindustan.com/*
+*://*.economictimes.com/*
+*://*.in/*
 *://*.desertcart.com/*
 *://*.ndtv.com/*
 *://*.techradar.com/*
@@ -40,9 +43,6 @@
 *://*.india.com/*
 *://*.india.com/*
 *://*.india.com/*
-*://*.hindustan.com/*
-*://*.economictimes.com/*
-*://*.in/*
 *://*.india.com/*
 *://*.india.com/*
 *://*.india.com/*
