@@ -19,6 +19,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 quora.com
 0.0.0.0 computermania.com.bd
 0.0.0.0 laptop6.com
+0.0.0.0 disqus.com
 
 #Fake News
 0.0.0.0 scorecardresearch.com
