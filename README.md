@@ -1,2 +1,1 @@
-# MinimalHost
-PrivateUseOnly
+# For Personal Use

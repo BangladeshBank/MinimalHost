@@ -15,12 +15,22 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-#Domains
-
+#Low Quality
 0.0.0.0 quora.com
+
+#Fake News
 0.0.0.0 scorecardresearch.com
-0.0.0.0 doubleclick.net
-0.0.0.0 intl.miui.com
+0.0.0.0 outbrain.com
+0.0.0.0 taboola.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.bd
+
+0.0.0.0 googleadservices.com
+
+
+
+
+
 
 #Dhaka Tribune
 0.0.0.0 green-red.com
@@ -33,15 +43,50 @@ ff02::3 ip6-allhosts
 
 #TLD blocking
 0.0.0.0 .in
+0.0.0.0 anandabazar.com
+0.0.0.0 indiatimes.com
+0.0.0.0 news18.com
+0.0.0.0 india.com
+0.0.0.0 indianexpress.com
+0.0.0.0 indiatoday.in
+0.0.0.0 hindustantimes.com
+0.0.0.0 economictimes.com
+0.0.0.0 thehindu.com
+0.0.0.0 jagran.com
+0.0.0.0 oneindia.com
+0.0.0.0 timesofindia.com
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
 
-#Trackers and Garbage
+
+#Trackers & Garbage
 0.0.0.0 sharethis.com
 0.0.0.0 addthis.com
+0.0.0.0 intl.miui.com
+0.0.0.0 alexametrics.com
+0.0.0.0 googlesyndication.com
 
-###############################
+#Ads
 0.0.0.0 appsflyer.com
 0.0.0.0 appspot.com
 0.0.0.0 axiatraders.com
 0.0.0.0 ero-advertising.com
 0.0.0.0 mobileapptracking.com
-0.0.0.0 outbrain.com
+0.0.0.0 doubleclick.net
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 ads-twitter.com
