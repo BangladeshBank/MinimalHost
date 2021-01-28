@@ -23,8 +23,8 @@
 *://*.themobileindian.com/*
 *://*.pricebaba.com/*
 *://*.quora.com/*
-*://*.india.com/*
-*://*.india.com/*
+*://*.computermania.com.bd/*
+*://*.laptop6.com/*
 *://*.india.com/*
 *://*.india.com/*
 *://*.india.com/*
