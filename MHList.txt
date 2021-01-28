@@ -27,7 +27,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 outbrain.com
 0.0.0.0 taboola.com
 
-
+#Private
+0.0.0.0 dailyhunt.in
+0.0.0.0 technosports.co.in
+0.0.0.0 indianexpress.com
+0.0.0.0 timesnownews.com
+0.0.0.0 userbenchmark.com
+0.0.0.0 twitter.com
+0.0.0.0 youtube.com
 
 
 
