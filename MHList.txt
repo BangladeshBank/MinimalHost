@@ -21,6 +21,14 @@ ff02::3 ip6-allhosts
 #Fake News
 0.0.0.0 scorecardresearch.com
 0.0.0.0 outbrain.com
+0.0.0.0 taboola.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.bd
+
+0.0.0.0 googleadservices.com
+
+
+
 
 
 
@@ -70,6 +78,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 sharethis.com
 0.0.0.0 addthis.com
 0.0.0.0 intl.miui.com
+0.0.0.0 alexametrics.com
+0.0.0.0 googlesyndication.com
 
 #Ads
 0.0.0.0 appsflyer.com
