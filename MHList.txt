@@ -17,6 +17,8 @@ ff02::3 ip6-allhosts
 
 #Low Quality
 0.0.0.0 quora.com
+0.0.0.0 computermania.com.bd
+0.0.0.0 laptop6.com
 
 #Fake News
 0.0.0.0 scorecardresearch.com
