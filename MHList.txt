@@ -35,6 +35,36 @@ ff02::3 ip6-allhosts
 
 #TLD blocking
 0.0.0.0 .in
+0.0.0.0 anandabazar.com
+0.0.0.0 indiatimes.com
+0.0.0.0 news18.com
+0.0.0.0 india.com
+0.0.0.0 indianexpress.com
+0.0.0.0 indiatoday.in
+0.0.0.0 hindustantimes.com
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+
 
 #Trackers & Garbage
 0.0.0.0 sharethis.com
