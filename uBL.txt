@@ -34,8 +34,6 @@
 *://*.indianexpress.com/*
 *://*.timesnownews.com/*
 *://*.userbenchmark.com/*
-*://*.twitter.com/*
-*://*.youtube.com/*
 
 
 
