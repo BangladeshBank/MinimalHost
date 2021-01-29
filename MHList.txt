@@ -62,23 +62,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 oneindia.com
 0.0.0.0 timesofindia.com
 0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-
 
 #Trackers & Garbage
 0.0.0.0 global.xiaomi.net
@@ -98,6 +81,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 ads-twitter.com
 0.0.0.0 ad-delivery.net
-#0.0.0.0 adservice.google.com
-#0.0.0.0 googleadservices.com
-#0.0.0.0 adservice.google.com.bd
+0.0.0.0 adservice.google.com
+0.0.0.0 googleadservices.com
+0.0.0.0 adservice.google.com.bd
