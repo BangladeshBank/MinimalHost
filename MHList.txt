@@ -34,7 +34,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 timesnownews.com
 0.0.0.0 userbenchmark.com
 
-
+#Bangladesh
+0.0.0.0 admanager.somoydigital.com
 
 #Dhaka Tribune
 0.0.0.0 green-red.com
