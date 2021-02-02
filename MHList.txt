@@ -26,6 +26,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 scorecardresearch.com
 0.0.0.0 outbrain.com
 0.0.0.0 taboola.com
+0.0.0.0 revcontent.com
+
 
 #Private
 0.0.0.0 dailyhunt.in
@@ -69,10 +71,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 sharethis.com
 0.0.0.0 addthis.com
 0.0.0.0 intl.miui.com
-0.0.0.0 alexametrics.com
 0.0.0.0 googlesyndication.com
+0.0.0.0 alexametrics.com
 
 #Ads
+0.0.0.0 cdn.tpdads.com
 0.0.0.0 appsflyer.com
 0.0.0.0 appspot.com
 0.0.0.0 axiatraders.com
