@@ -45,7 +45,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eskimi.com
 0.0.0.0 feedify.net
 0.0.0.0 logs.bilsyndication.com
-0.0.0.0 
+0.0.0.0 purplepatch.online
 
 #Daily Star
 0.0.0.0 bluemix.net
