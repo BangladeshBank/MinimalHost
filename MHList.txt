@@ -95,14 +95,14 @@ ff02::3 ip6-allhosts
 #Trackers & Garbage
 0.0.0.0 global.xiaomi.net
 0.0.0.0 sharethis.com
-0.0.0.0 platform.twitter.com
-0.0.0.0 platform.instagram.com
+#0.0.0.0 platform.twitter.com	#Breaks Twitter
+#0.0.0.0 platform.instagram.com	#Breaks Instagram
 0.0.0.0 platform-cdn.sharethis.com
 0.0.0.0 addthis.com
 0.0.0.0 intl.miui.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 alexametrics.com
-#0.0.0.0 connect.facebook.net	#breaks FB
+#0.0.0.0 connect.facebook.net	#Breaks FB
 #Ads
 0.0.0.0 cdn.tpdads.com
 0.0.0.0 appsflyer.com
