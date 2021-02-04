@@ -110,12 +110,31 @@ ff02::3 ip6-allhosts
 0.0.0.0 axiatraders.com
 0.0.0.0 ero-advertising.com
 0.0.0.0 mobileapptracking.com
-0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 ads-twitter.com
 0.0.0.0 ad-delivery.net
+#Google
 0.0.0.0 adservice.google.com
 0.0.0.0 googleadservices.com
 0.0.0.0 adservice.google.com.bd
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+#Portable
+0.0.0.0 mopub.com
+0.0.0.0 tapad.com
+0.0.0.0 moatads.com
+0.0.0.0 adroll.com
+0.0.0.0 adkmob.com
+0.0.0.0 vid.applovin.com
+0.0.0.0 z-p4-graph.facebook.com
+0.0.0.0 z-p4.graph.instagram.com
+0.0.0.0 z-p42.graph.instagram.com
+0.0.0.0 liftoff.io
+0.0.0.0 adcolony.com
+0.0.0.0 adtech.de
+0.0.0.0 ad.a-ads.com
+0.0.0.0 admob.com
+0.0.0.0 admixer.co.kr
+0.0.0.0 adnxs.com
+0.0.0.0 adotmob.com
