@@ -1,4 +1,5 @@
 #Ishtiaqe Personal
+#Ishtiaqe Personal
 #Defining Host
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -14,32 +15,26 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-
 #Low Quality
 0.0.0.0 quora.com
 0.0.0.0 computermania.com.bd
 0.0.0.0 laptop6.com
 0.0.0.0 disqus.com
 0.0.0.0 disquscdn.com
-
 #Fake News
 0.0.0.0 scorecardresearch.com
 0.0.0.0 outbrain.com
 0.0.0.0 taboola.com
 0.0.0.0 popup.taboola.com
 0.0.0.0 revcontent.com
-
-
 #Private
 0.0.0.0 dailyhunt.in
 0.0.0.0 technosports.co.in
 0.0.0.0 indianexpress.com
 0.0.0.0 timesnownews.com
 0.0.0.0 userbenchmark.com
-
 #Bangladesh
 0.0.0.0 admanager.somoydigital.com
-
 #Dhaka Tribune
 0.0.0.0 green-red.com
 0.0.0.0 eskimi.com
@@ -47,11 +42,40 @@ ff02::3 ip6-allhosts
 0.0.0.0 bilsyndication.com
 0.0.0.0 purplepatch.online
 0.0.0.0 bgd1.purplepatch.online
-
+#Dhaka Tribune Trackers
+0.0.0.0 quantumdex.io
+0.0.0.0 lijit.com
+0.0.0.0 contextweb.com
+0.0.0.0 advangelists.com
+0.0.0.0 tynt.com
+0.0.0.0 sonobi.com
+0.0.0.0 adsrvr.org
+0.0.0.0 rfihub.com
+0.0.0.0 mathtag.com
+0.0.0.0 semasio.net
+0.0.0.0 bidswitch.net
+0.0.0.0 yieldmo.com
+0.0.0.0 casalemedia.com
+0.0.0.0 3lift.com
+0.0.0.0 liadm.com
+0.0.0.0 bidr.io
+0.0.0.0 sharethrough.com
+0.0.0.0 dotomi.com
+0.0.0.0 tremorhub.com
+0.0.0.0 advertising.com
+0.0.0.0 onaudience.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 tapad.com
+0.0.0.0 owneriq.net
+0.0.0.0 erne.co
+0.0.0.0 colossusssp.com
+0.0.0.0 crwdcntrl.net
+0.0.0.0 spotxchange.com
+0.0.0.0 teads.tv
+0.0.0.0 
 #Daily Star
 0.0.0.0 bluemix.net
 0.0.0.0 mybluemix.net
-
 #TLD blocking
 0.0.0.0 .in
 0.0.0.0 anandabazar.com
@@ -67,19 +91,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 oneindia.com
 0.0.0.0 timesofindia.com
 0.0.0.0 
-
 #Trackers & Garbage
 0.0.0.0 global.xiaomi.net
 0.0.0.0 sharethis.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 platform.instagram.com
 0.0.0.0 platform-cdn.sharethis.com
-
 0.0.0.0 addthis.com
 0.0.0.0 intl.miui.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 alexametrics.com
-
 #Ads
 0.0.0.0 cdn.tpdads.com
 0.0.0.0 appsflyer.com
