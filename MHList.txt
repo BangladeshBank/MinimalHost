@@ -46,7 +46,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 feedify.net
 0.0.0.0 logs.bilsyndication.com
 0.0.0.0 purplepatch.online
-
+0.0.0.0 bgd1.purplepatch.online
 #Daily Star
 0.0.0.0 bluemix.net
 0.0.0.0 mybluemix.net
