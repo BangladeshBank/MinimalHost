@@ -138,3 +138,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 admixer.co.kr
 0.0.0.0 adnxs.com
 0.0.0.0 adotmob.com
+#imo bigo likee
+0.0.0.0 likee.video
+0.0.0.0 singbox.sg
+0.0.0.0 imolive2.com
+0.0.0.0 imoim.app
+0.0.0.0 gdl.news-cdn.site
+0.0.0.0 bigo.sg
+0.0.0.0 appmifile.com
+0.0.0.0 masala.sh
+0.0.0.0 like.video
+0.0.0.0 liketech-cdn.site
+0.0.0.0 liketech.tech
+0.0.0.0 imotech.tech
+0.0.0.0 bigolive.tv
+0.0.0.0 
