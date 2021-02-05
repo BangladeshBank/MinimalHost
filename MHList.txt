@@ -163,4 +163,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 webengage.co
 #Yahoo
 0.0.0.0 adtech.us
+#Sensitive
+0.0.0.0 juicyads.com
+0.0.0.0 ngehochsi.fun
+0.0.0.0 jads.co
+0.0.0.0 bongacams.com
 
