@@ -120,6 +120,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
+#0.0.0.0 google-analytics.com
+#0.0.0.0 googletagmanager.com
 #Portable
 0.0.0.0 mopub.com
 0.0.0.0 tapad.com
@@ -159,8 +161,6 @@ ff02::3 ip6-allhosts
 #Bikroy
 0.0.0.0 webengage.com
 0.0.0.0 tracker.bikroy.com
-0.0.0.0 google-analytics.com
-0.0.0.0 googletagmanager.com
 0.0.0.0 webengage.co
 #Yahoo
 0.0.0.0 adtech.us
