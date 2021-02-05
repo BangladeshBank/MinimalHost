@@ -155,10 +155,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 appsflyersdk.com
 0.0.0.0 piojm.tech
 #Yandex
-0.0.0.0 avatars.mds.yandex.net
+#0.0.0.0 avatars.mds.yandex.net #Breaks all thumbnails
 #Bikroy
 0.0.0.0 webengage.com
 0.0.0.0 tracker.bikroy.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 webengage.co
+#Yahoo
+0.0.0.0 adtech.us
+0.0.0.0 
+
