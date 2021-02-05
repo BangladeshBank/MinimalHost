@@ -1,5 +1,4 @@
 #Ishtiaqe Personal
-#Ishtiaqe Personal
 #Defining Host
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -164,5 +163,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 webengage.co
 #Yahoo
 0.0.0.0 adtech.us
-0.0.0.0 
 
