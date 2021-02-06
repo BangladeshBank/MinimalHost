@@ -99,7 +99,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 platform-cdn.sharethis.com
 0.0.0.0 addthis.com
 0.0.0.0 intl.miui.com
-0.0.0.0 googlesyndication.com
+
 0.0.0.0 alexametrics.com
 #0.0.0.0 connect.facebook.net	#Breaks FB
 #Ads
@@ -113,12 +113,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-twitter.com
 0.0.0.0 ad-delivery.net
 #Google
+#0.0.0.0 googlesyndication.com
 0.0.0.0 adservice.google.com
 0.0.0.0 googleadservices.com
-0.0.0.0 adservice.google.com.bd
-0.0.0.0 securepubads.g.doubleclick.net
+#0.0.0.0 adservice.google.com.bd
+#0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
+#0.0.0.0 googleads.g.doubleclick.net
 #0.0.0.0 google-analytics.com
 #0.0.0.0 googletagmanager.com
 #Portable
