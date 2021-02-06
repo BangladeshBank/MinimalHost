@@ -103,6 +103,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alexametrics.com
 #0.0.0.0 connect.facebook.net	#Breaks FB
 #Ads
+0.0.0.0 ads.pubmatic.com
 0.0.0.0 cdn.tpdads.com
 0.0.0.0 appsflyer.com
 0.0.0.0 appspot.com
