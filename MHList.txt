@@ -34,6 +34,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 userbenchmark.com
 #Bangladesh
 0.0.0.0 admanager.somoydigital.com
+0.0.0.0 pushengage.com
+
 #Dhaka Tribune
 0.0.0.0 green-red.com
 0.0.0.0 eskimi.com
