@@ -117,10 +117,10 @@ ff02::3 ip6-allhosts
 #0.0.0.0 googlesyndication.com
 0.0.0.0 adservice.google.com
 0.0.0.0 googleadservices.com
-#0.0.0.0 adservice.google.com.bd
-#0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 adservice.google.com.bd
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
-#0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
 #0.0.0.0 google-analytics.com
 #0.0.0.0 googletagmanager.com
 #Portable
