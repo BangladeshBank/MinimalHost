@@ -118,6 +118,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads-twitter.com
 0.0.0.0 ad-delivery.net
 #Google
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 adservice.google.com
 0.0.0.0 googleadservices.com
