@@ -35,6 +35,8 @@ ff02::3 ip6-allhosts
 #Bangladesh
 0.0.0.0 admanager.somoydigital.com
 0.0.0.0 pushengage.com
+0.0.0.0 accengage.com
+0.0.0.0 o-s.io
 
 #Dhaka Tribune
 0.0.0.0 green-red.com
