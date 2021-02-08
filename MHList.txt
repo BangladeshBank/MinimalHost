@@ -117,6 +117,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 ads-twitter.com
 0.0.0.0 ad-delivery.net
+0.0.0.0 anyclip.com
+0.0.0.0 bibblio.com
+0.0.0.0 ezoic.net
+0.0.0.0 ezodn.com
+0.0.0.0 unrulymedia.com
 #Google
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 googlesyndication.com
