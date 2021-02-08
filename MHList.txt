@@ -76,7 +76,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 crwdcntrl.net
 0.0.0.0 spotxchange.com
 0.0.0.0 teads.tv
-0.0.0.0 
 #Daily Star
 0.0.0.0 bluemix.net
 0.0.0.0 mybluemix.net
@@ -94,7 +93,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jagran.com
 0.0.0.0 oneindia.com
 0.0.0.0 timesofindia.com
-0.0.0.0 
 #Trackers & Garbage
 0.0.0.0 global.xiaomi.net
 0.0.0.0 sharethis.com
