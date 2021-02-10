@@ -120,6 +120,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 ezoic.net
 0.0.0.0 ezodn.com
 0.0.0.0 unrulymedia.com
+0.0.0.0 showad.js
+0.0.0.0 servedby-buysellads.com
+0.0.0.0 adrecover.com
+0.0.0.0 buysellads.net
+0.0.0.0 adpushup.com
 #Google
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 googlesyndication.com
@@ -129,8 +134,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
-#0.0.0.0 google-analytics.com
-#0.0.0.0 googletagmanager.com
+0.0.0.0 google-analytics.com
+0.0.0.0 googletagmanager.com
 #Portable
 0.0.0.0 mopub.com
 0.0.0.0 tapad.com
