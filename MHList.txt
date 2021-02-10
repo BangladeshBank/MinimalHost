@@ -4,8 +4,6 @@
 255.255.255.255 broadcasthost
 0.0.0.0 0.0.0.0
 
-
-
 0.0.0.0 anandabazar.com
 0.0.0.0 indiatimes.com
 0.0.0.0 news18.com
@@ -17,7 +15,6 @@
 0.0.0.0 jagran.com
 0.0.0.0 oneindia.com
 0.0.0.0 timesofindia.com
-#0.0.0.0 quora.com
 0.0.0.0 computermania.com.bd
 0.0.0.0 laptop6.com
 0.0.0.0 disqus.com
@@ -88,11 +85,6 @@
 0.0.0.0 adrecover.com
 0.0.0.0 buysellads.net
 0.0.0.0 adpushup.com
-0.0.0.0 googlesyndication.com
-0.0.0.0 adservice.google.com
-0.0.0.0 adservice.google.com.bd
-0.0.0.0 googleadservices.com
-0.0.0.0 doubleclick.net
 0.0.0.0 mopub.com
 0.0.0.0 moatads.com
 0.0.0.0 adroll.com
@@ -199,7 +191,6 @@
 0.0.0.0 web.vortex.data.msn.com
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.fastly-insights.com
-0.0.0.0 www.googleoptimize.com
 0.0.0.0 www.medtargetsystem.com
 0.0.0.0 www.npttech.com
 0.0.0.0 www.stack-sonar.com
@@ -631,7 +622,6 @@
 0.0.0.0 config.appjolt.com
 0.0.0.0 adflake.com
 0.0.0.0 ads.aitype.net
-0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 247realmedia.com
 0.0.0.0 360yield.com
 0.0.0.0 a2dfp.net
@@ -642,7 +632,6 @@
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-stir.com
 0.0.0.0 ad.apsalar.com
-0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.jorte.com
 0.0.0.0 ad.kixer.com
 0.0.0.0 ad.leadbolt.net
@@ -828,7 +817,6 @@
 0.0.0.0 ftjcfx.com
 0.0.0.0 fusionads.net
 0.0.0.0 fyber.com
-0.0.0.0 g.doubleclick.net
 0.0.0.0 go.mobstitial.com
 0.0.0.0 go.mobstitialtag.com
 0.0.0.0 go.mobtrks.com
@@ -853,7 +841,6 @@
 0.0.0.0 iad.appboy.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iamediaserve.com
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 infolinks.com
 0.0.0.0 inmobi.com
 0.0.0.0 inmobi.net
@@ -937,7 +924,6 @@
 0.0.0.0 mxttrf.com
 0.0.0.0 myinfotopia.com
 0.0.0.0 mythings.com
-0.0.0.0 n4403ad.doubleclick.net
 0.0.0.0 nanigans.com
 0.0.0.0 nativex.com
 0.0.0.0 nearbyad.com
@@ -955,10 +941,7 @@
 0.0.0.0 ongkidcasarv.com
 0.0.0.0 optimatic.com
 0.0.0.0 os.scmpacdn.com
-0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagefair.net
-0.0.0.0 partner.googleadservices.com
-0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partnerearning.com
 0.0.0.0 pflexads.com
 0.0.0.0 phluant.com
@@ -1012,7 +995,6 @@
 0.0.0.0 sscefsol.com
 0.0.0.0 startappexchange.com
 0.0.0.0 stat.kika-backend.com
-0.0.0.0 static.doubleclick.net
 0.0.0.0 stickyadstv.com
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 supersonicads.com
@@ -1035,7 +1017,6 @@
 0.0.0.0 tizerclik.com
 0.0.0.0 tm1.hoiplay.com
 0.0.0.0 tonefuse.com
-0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 track.cpatool.net
 0.0.0.0 trackimpression.com
 0.0.0.0 tracking.acekoala.com
@@ -1141,7 +1122,6 @@
 0.0.0.0 analytics.qoqa.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 gcdsdk.appsflyer.com
-0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 register.appsflyer.com
@@ -1343,8 +1323,6 @@
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 geoip.fotoable.net
-0.0.0.0 google-analytics.com
-0.0.0.0 googleadapis.l.google.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 imp.apprevolve.com
 0.0.0.0 installtracker.com
@@ -1379,7 +1357,6 @@
 0.0.0.0 rlog.9gag.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
-0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 stat.duokanbox.com
 0.0.0.0 statistics.videofarm.daum.net
 0.0.0.0 stats.popcap.com
@@ -1397,7 +1374,6 @@
 0.0.0.0 upalytics.com
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 ws.ksmobile.net
-0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 ymtracking.com
 0.0.0.0 zdbb.net
@@ -1992,25 +1968,7 @@
 0.0.0.0 pv.pjtsu.com
 0.0.0.0 dmpcloud.net
 0.0.0.0 tanidigital.com
-0.0.0.0 0emm.com
-0.0.0.0 0stats.com
-0.0.0.0 0tracker.com
-0.0.0.0 1-cl0ud.com
-0.0.0.0 103bees.com
-0.0.0.0 105app.com
-0.0.0.0 11nux.com
-0.0.0.0 123compteur.com
-0.0.0.0 123count.com
-0.0.0.0 12mnkys.com
-0.0.0.0 1freecounter.com
-0.0.0.0 1pel.com
-0.0.0.0 200summit.com
-0.0.0.0 206solutions.com
-0.0.0.0 247ilabs.com
-0.0.0.0 24businessnews.com
-0.0.0.0 24counter.com
-0.0.0.0 24log.com
-0.0.0.0 2cnt.net
+
 0.0.0.0 2o7.net
 0.0.0.0 360i.com
 0.0.0.0 360tag.com
@@ -2018,14 +1976,6 @@
 0.0.0.0 3dlivestats.com
 0.0.0.0 3dstats.com
 0.0.0.0 3gl.net
-0.0.0.0 40nuggets.com
-0.0.0.0 4oney.com
-0.0.0.0 51yes.com
-0.0.0.0 55labs.com
-0.0.0.0 77tracking.com
-0.0.0.0 7bpeople.com
-0.0.0.0 7eer.net
-0.0.0.0 8020solutions.net
 0.0.0.0 99click.com
 0.0.0.0 99counters.com
 0.0.0.0 99stats.com
@@ -2621,7 +2571,6 @@
 0.0.0.0 goingup.com
 0.0.0.0 goldstats.com
 0.0.0.0 goneviral.com
-0.0.0.0 google-pagerank.net
 0.0.0.0 gopjn.com
 0.0.0.0 gosquared.com
 0.0.0.0 gostats.com
@@ -5463,7 +5412,6 @@
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.ft.com
-0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.ebay.com
 0.0.0.0 stats.cnevids.com
@@ -5531,7 +5479,6 @@
 0.0.0.0 web-analytics.engagio.com
 0.0.0.0 w.oix.net
 0.0.0.0 ui.oix.net
-0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 udc.msn.com
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 affiliates.cdkeys.com
@@ -5726,7 +5673,6 @@
 0.0.0.0 btrace.qq.com
 0.0.0.0 click.uol.com.br
 0.0.0.0 clientlog.portal.office.com
-0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 comet.yahoo.com
 0.0.0.0 log.liverail.com
 0.0.0.0 logger.rm.uol.com.br
