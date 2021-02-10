@@ -181,4 +181,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 pc180101.com
 0.0.0.0 baresi.xyz
 0.0.0.0 tsyndicate.com
+0.0.0.0 adtng.com
+0.0.0.0 chaturbate.com
+0.0.0.0 trafficstars.com
+0.0.0.0 stripst.com
 
