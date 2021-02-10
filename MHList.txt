@@ -1,44 +1,41 @@
 #Ishtiaqe Personal
 #Defining Host
 127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
 255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+
 #Low Quality
-0.0.0.0 quora.com
+0.0.0.0 .in
+0.0.0.0 anandabazar.com
+0.0.0.0 indiatimes.com
+0.0.0.0 news18.com
+0.0.0.0 india.com
+0.0.0.0 indianexpress.com
+0.0.0.0 indiatoday.in
+0.0.0.0 hindustantimes.com
+0.0.0.0 economictimes.com
+0.0.0.0 thehindu.com
+0.0.0.0 jagran.com
+0.0.0.0 oneindia.com
+0.0.0.0 timesofindia.com
+#0.0.0.0 quora.com
 0.0.0.0 computermania.com.bd
 0.0.0.0 laptop6.com
 0.0.0.0 disqus.com
 0.0.0.0 disquscdn.com
-#Fake News
-0.0.0.0 scorecardresearch.com
-0.0.0.0 outbrain.com
-0.0.0.0 taboola.com
-0.0.0.0 popup.taboola.com
-0.0.0.0 revcontent.com
-#Private
 0.0.0.0 dailyhunt.in
 0.0.0.0 technosports.co.in
 0.0.0.0 indianexpress.com
 0.0.0.0 timesnownews.com
 0.0.0.0 userbenchmark.com
-#Bangladesh
-0.0.0.0 admanager.somoydigital.com
-0.0.0.0 pushengage.com
-0.0.0.0 accengage.com
-0.0.0.0 o-s.io
 
-#Dhaka Tribune
+#Fake News
+0.0.0.0 scorecardresearch.com
+0.0.0.0 outbrain.com
+0.0.0.0 taboola.com
+0.0.0.0 revcontent.com
+
+#Bangladesh
 0.0.0.0 green-red.com
 0.0.0.0 eskimi.com
 0.0.0.0 feedify.net
@@ -46,7 +43,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 purplepatch.online
 0.0.0.0 bgd1.purplepatch.online
 0.0.0.0 ms.purplepatch.online
-#Dhaka Tribune Trackers
 0.0.0.0 quantumdex.io
 0.0.0.0 lijit.com
 0.0.0.0 contextweb.com
@@ -76,35 +72,27 @@ ff02::3 ip6-allhosts
 0.0.0.0 crwdcntrl.net
 0.0.0.0 spotxchange.com
 0.0.0.0 teads.tv
-#Daily Star
+0.0.0.0 admanager.somoydigital.com
+0.0.0.0 pushengage.com
+0.0.0.0 accengage.com
+0.0.0.0 o-s.io
 0.0.0.0 bluemix.net
 0.0.0.0 mybluemix.net
-#TLD blocking
-0.0.0.0 .in
-0.0.0.0 anandabazar.com
-0.0.0.0 indiatimes.com
-0.0.0.0 news18.com
-0.0.0.0 india.com
-0.0.0.0 indianexpress.com
-0.0.0.0 indiatoday.in
-0.0.0.0 hindustantimes.com
-0.0.0.0 economictimes.com
-0.0.0.0 thehindu.com
-0.0.0.0 jagran.com
-0.0.0.0 oneindia.com
-0.0.0.0 timesofindia.com
+
 #Trackers & Garbage
 0.0.0.0 global.xiaomi.net
 0.0.0.0 sharethis.com
-#0.0.0.0 platform.twitter.com	#Breaks Twitter
-#0.0.0.0 platform.instagram.com	#Breaks Instagram
-0.0.0.0 platform-cdn.sharethis.com
 0.0.0.0 addthis.com
 0.0.0.0 intl.miui.com
-
 0.0.0.0 alexametrics.com
-#0.0.0.0 connect.facebook.net	#Breaks FB
+
 #Ads
+0.0.0.0 juicyads.com
+0.0.0.0 ngehochsi.fun
+0.0.0.0 jads.co
+0.0.0.0 bongacams.com
+0.0.0.0 pc180101.com
+0.0.0.0 baresi.xyz
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 cdn.tpdads.com
 0.0.0.0 appsflyer.com
@@ -125,7 +113,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adrecover.com
 0.0.0.0 buysellads.net
 0.0.0.0 adpushup.com
-#Google
 0.0.0.0 googlesyndication.com
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.bd
@@ -133,7 +120,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 doubleclick.net
 #0.0.0.0 google-analytics.com
 #0.0.0.0 googletagmanager.com
-#Portable
 0.0.0.0 mopub.com
 0.0.0.0 tapad.com
 0.0.0.0 moatads.com
@@ -151,7 +137,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 admixer.co.kr
 0.0.0.0 adnxs.com
 0.0.0.0 adotmob.com
-#imo bigo likee
 0.0.0.0 likee.video
 0.0.0.0 singbox.sg
 0.0.0.0 imolive2.com
@@ -167,24 +152,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 bigolive.tv
 0.0.0.0 appsflyersdk.com
 0.0.0.0 piojm.tech
-#Yandex
-#0.0.0.0 avatars.mds.yandex.net #Breaks all thumbnails
-#Bikroy
 0.0.0.0 webengage.com
 0.0.0.0 tracker.bikroy.com
 0.0.0.0 webengage.co
-#Yahoo
 0.0.0.0 adtech.us
-#Sensitive
-0.0.0.0 juicyads.com
-0.0.0.0 ngehochsi.fun
-0.0.0.0 jads.co
-0.0.0.0 bongacams.com
-0.0.0.0 pc180101.com
-0.0.0.0 baresi.xyz
 0.0.0.0 tsyndicate.com
 0.0.0.0 adtng.com
 0.0.0.0 chaturbate.com
 0.0.0.0 trafficstars.com
 0.0.0.0 stripst.com
-
