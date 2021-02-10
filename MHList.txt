@@ -162,11 +162,10 @@
 0.0.0.0 an.facebook.com
 0.0.0.0 pixel.facebook.com
 0.0.0.0 adnexus.net
-0.0.0.0 az361816.vo.msecnd.net
-0.0.0.0 az512334.vo.msecnd.net
+0.0.0.0 .vo.msecnd.net
 0.0.0.0 c.msn.com
 0.0.0.0 cdn.atdmt.com
-0.0.0.0 cds26.ams9.msecn.net
+0.0.0.0 ams9.msecn.net
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 g.msn.com
 0.0.0.0 h1.msn.com
