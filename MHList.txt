@@ -743,22 +743,11 @@
 0.0.0.0 smaato.net
 0.0.0.0 smaclick.com
 0.0.0.0 smartadserver.com
-0.0.0.0 sociomantic.com
-0.0.0.0 solocpm.com
+
 0.0.0.0 splash.appsgeyser.com
-0.0.0.0 sponsorpay.com
-0.0.0.0 sscefsol.com
-0.0.0.0 startappexchange.com
-0.0.0.0 stat.kika-backend.com
-0.0.0.0 stickyadstv.com
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 supersonicads.com
-0.0.0.0 swelen.com
-0.0.0.0 switchadhub.com
-0.0.0.0 t3q7af0z.com
-0.0.0.0 tap-nexus.appspot.com
-0.0.0.0 tapcreatives.net
-0.0.0.0 tapit.com
+
 0.0.0.0 tapjoyads.com
 0.0.0.0 tappx.com
 0.0.0.0 tapsense.com
@@ -766,21 +755,6 @@
 0.0.0.0 telemetryverification.net
 0.0.0.0 teracreative.com
 0.0.0.0 terraclicks.com
-0.0.0.0 thetrafficstat.net
-0.0.0.0 thoughtleadr.com
-0.0.0.0 tidaltv.com
-0.0.0.0 tizerclik.com
-0.0.0.0 tm1.hoiplay.com
-0.0.0.0 tonefuse.com
-0.0.0.0 track.cpatool.net
-0.0.0.0 trackimpression.com
-0.0.0.0 tracking.acekoala.com
-0.0.0.0 tracking.applift.com
-0.0.0.0 tradeadexchange.com
-0.0.0.0 traff10wap.com
-0.0.0.0 trafficjunky.net
-0.0.0.0 trafmag.com
-0.0.0.0 traktum.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 tribalfusion.com
 0.0.0.0 trk.glispa.com
