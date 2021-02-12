@@ -6,6 +6,7 @@
 
 0.0.0.0 jwplayer.com
 0.0.0.0 jwpltx.com
+0.0.0.0 pagead2.googlesyndication.com
 
 0.0.0.0 anandabazar.com
 0.0.0.0 indiatimes.com

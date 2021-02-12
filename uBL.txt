@@ -1,3 +1,5 @@
+#Last Edit Date
+#12 February 2021 3:40pm
 *://*.hindustan.com/*
 *://*.economictimes.com/*
 *://*.in/*
@@ -34,10 +36,10 @@
 *://*.indianexpress.com/*
 *://*.timesnownews.com/*
 *://*.userbenchmark.com/*
-*://nsu.nihal.one/*
-*://nsuer.club/*
-*://www.coursehero.com/*
-*://www.scribd.com/*
+*://*.nihal.one/*
+*://*.nsuer.club/*
+*://*.coursehero.com/*
+*://*.scribd.com/*
 
 
 
