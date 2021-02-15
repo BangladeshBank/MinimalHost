@@ -9,6 +9,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 googleadservices.com
 0.0.0.0 doubleclick.net
+0.0.0.0 media-eng.dhakatribune.com
 
 0.0.0.0 anandabazar.com
 0.0.0.0 indiatimes.com
