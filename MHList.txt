@@ -7,6 +7,8 @@
 0.0.0.0 jwplayer.com
 0.0.0.0 jwpltx.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googleadservices.com
+0.0.0.0 doubleclick.net
 
 0.0.0.0 anandabazar.com
 0.0.0.0 indiatimes.com
@@ -812,7 +814,6 @@
 0.0.0.0 weboohost.com
 0.0.0.0 cloudads-a.akamaihd.net
 0.0.0.0 cdn.xiao7cdn.com
-0.0.0.0 alicdn.com
 0.0.0.0 blog-sokuhou.com
 0.0.0.0 m.flowcodeapp.com
 0.0.0.0 m.yanglaopt.net
@@ -4676,17 +4677,6 @@
 0.0.0.0 data-collector.wefi.com
 0.0.0.0 dcs.maxthon.com
 0.0.0.0 eclick.baidu.com
-0.0.0.0 events.apester.com
-0.0.0.0 events.mobile.optimizely.com
-0.0.0.0 exacttarget.api.mashery.com
-0.0.0.0 gekko.spiceworks.com
-0.0.0.0 geobeacon.ign.com
-0.0.0.0 hi.hellobar.com
-0.0.0.0 hit.mynet.com
-0.0.0.0 hitweb2.chosun.com
-0.0.0.0 hrumpoc.hotels.com
-0.0.0.0 l.ooyala.com
-0.0.0.0 l.sharethis.com
 0.0.0.0 log.olark.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 ls.srvcs.tumblr.com
@@ -4698,14 +4688,6 @@
 0.0.0.0 ping.hellobar.com
 0.0.0.0 pixelhere.com
 0.0.0.0 qnajplxtvz-a.akamaihd.net
-0.0.0.0 r.remarketingpixel.com
-0.0.0.0 recs.atgsvcs.com
-0.0.0.0 saber.srvcs.tumblr.com
-0.0.0.0 smetrics.uhc.com
-0.0.0.0 stags.bluekai.com
-0.0.0.0 stat.novostimira.com
-0.0.0.0 statistics.mailerlite.com
-0.0.0.0 stats-newyork1.bloxcms.com
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.videoseyredin.net
 0.0.0.0 stats2.arstechnica.com
