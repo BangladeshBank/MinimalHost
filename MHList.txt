@@ -73,8 +73,8 @@
 0.0.0.0 admanager.somoydigital.com
 0.0.0.0 pushengage.com
 0.0.0.0 accengage.com
-0.0.0.0 bluemix.net
-0.0.0.0 mybluemix.net
+#0.0.0.0 bluemix.net
+#0.0.0.0 mybluemix.net
 0.0.0.0 global.xiaomi.net
 0.0.0.0 sharethis.com
 0.0.0.0 addthis.com
