@@ -40,6 +40,18 @@
 *://*.nsuer.club/*
 *://*.coursehero.com/*
 *://*.scribd.com/*
+*://theprint.in/*
+*://www.ndtv.com/*
+*://timesofindia.indiatimes.com/*
+*://www.dailyexcelsior.com/*
+*://www.indiatimes.com/*
+*://www.oneindia.com/*
+*://www.uniindia.com/*
+*://economictimes.indiatimes.com/*
+*://salute.co.in/*
+*://www.thebetterindia.com/*
+*://indianexpress.com/*
+*://www.indiatoday.in/*
 
 
 
