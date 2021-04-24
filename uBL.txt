@@ -73,3 +73,7 @@
 *://fb.oporaua.org/*
 *://socket.melzo.com/*
 *://www.numerade.com/*
+
+#24th April 2021
+*://www.bartleby.com/*
+*://www.macrumors.com/*
